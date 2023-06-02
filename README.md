@@ -3,7 +3,7 @@ https://www.thecompetence.in/assets/images/datascience.gif
 <h1 align="center">Hi 👋, I'm Paurnima Chavan</h1>
 <h3 align="center">Architect Data Science</h3>
 
-<img align="right" width="400" src="https://www.thecompetence.in/assets/images/datascience.gif"><img>
+<img align="right" width="400" src="https://www.thecompetence.in/assets/images/datascience.gif"></img>
 
 
 <h3 align="left">Connect with me:</h3>
